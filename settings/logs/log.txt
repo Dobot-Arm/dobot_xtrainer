@@ -1,0 +1,12 @@
+2024-10-15 10-53-17:486 [mainCode.py] 833: dead run control
+2024-10-15 10-53-34:626 [mainCode.py] 833: dead run control
+2024-10-15 10-54-43:182 [mainCode.py] 833: dead run control
+2024-10-15 10-54-44:765 [mainCode.py] 833: dead run control
+2024-10-15 11-00-23:096 [mainCode.py] 833: dead run control
+2024-10-15 11-00-40:440 [mainCode.py] 833: dead run control
+2024-10-15 11-01-44:099 [mainCode.py] 833: dead run control
+2024-10-15 11-01-47:593 [mainCode.py] 833: dead run control
+2024-10-15 11-02-26:221 [mainCode.py] 833: dead run control
+2024-10-15 11-02-28:810 [mainCode.py] 833: dead run control
+2024-10-15 11-03-31:674 [mainCode.py] 833: dead run control
+2024-10-15 11-04-05:505 [mainCode.py] 833: dead run control

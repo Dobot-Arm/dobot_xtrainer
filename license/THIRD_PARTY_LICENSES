@@ -1,0 +1,60 @@
+第三方软件许可声明
+
+本项目包含或依赖第三方软件。各组件仍受其自身许可证约束。本文件仅用于
+提供相关信息，不能替代各组件版权方发布的完整许可证文本。
+
+一、仓库内置源代码
+==================
+
+DynamixelSDK（Python）
+  上游项目：https://github.com/ROBOTIS-GIT/DynamixelSDK
+  许可证：Apache License 2.0
+  许可证文本保留于：
+  third_party/DynamixelSDK/python/LICENSE.txt
+
+Feetech SCServo Python SDK
+  上游项目：https://www.feetechrc.com/
+  所在位置：third_party/feetech/
+  本仓库随附的源代码及压缩包旁未发现许可证声明。因此，该组件不属于本
+  项目 GPL-3.0 许可的授权范围。在复制、修改或再分发该组件之前，请先向
+  Feetech 获取适用的许可条款。
+
+二、Python 构建及运行时依赖
+===========================
+
+本项目使用的依赖版本记录在 requirements.txt 中。
+
+PyInstaller
+  上游项目：https://pyinstaller.org/
+  许可证：GPL-2.0-or-later，附带 PyInstaller 引导加载程序例外条款
+
+pyinstaller-hooks-contrib
+  上游项目：https://github.com/pyinstaller/pyinstaller-hooks-contrib
+  许可证：Apache-2.0 和 GPL-2.0-or-later；各文件的具体适用条款请参见
+  上游发行包
+
+PyOpenGL
+  上游项目：https://mcfletch.github.io/pyopengl/
+  许可证：BSD-3-Clause
+
+pyparsing
+  上游项目：https://github.com/pyparsing/pyparsing
+  许可证：MIT
+
+PyQt5 和 PyQt6
+  上游项目：https://www.riverbankcomputing.com/software/pyqt/
+  许可证：GPL-3.0-only 或 Riverbank 商业许可证
+
+PyQt5-Qt5 和 PyQt6-Qt6（Qt 二进制发行包）
+  上游项目：https://www.qt.io/licensing/
+  许可证：根据所使用的 Qt 模块及适用协议，采用 LGPL-3.0-only、
+  GPL-2.0-only、GPL-3.0-only 或 Qt 商业许可证
+
+PyQt5-sip 和 PyQt6-sip
+  上游项目：https://www.riverbankcomputing.com/software/sip/
+  许可证：BSD-2-Clause
+
+pyqt5-plugins 和 pyqt5-tools
+  上游项目：https://github.com/altendky/pyqt-tools
+  许可证：GPL-3.0
+
